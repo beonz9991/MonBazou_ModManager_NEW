@@ -8,8 +8,8 @@ internal class Mod
     public string GameVersion { get; set; }
     public string Type { get; set; }
     public string Category { get; set; }
-    public string dllName { get; set; }
-    public string zipName { get; set; }
+    public string DllName { get; set; }
+    public string ZipName { get; set; }
     public bool Deactivated { get; set; }
     public string Reason { get; set; }
 }
